@@ -1,3 +1,3 @@
 # myprojects
 
-Some projects from the Coding Factory courses
+Some projects/tasks from the Coding Factory courses
