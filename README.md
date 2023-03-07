@@ -1,3 +1,3 @@
 # myprojects
 
-Some simple projects/tasks in algorithms
+Some simple projects/tasks in algorithmic thinking
